@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://liuatt.github.io/literate-fishstick/sitemap.xml
